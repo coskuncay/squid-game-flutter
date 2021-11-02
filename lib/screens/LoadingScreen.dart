@@ -1,5 +1,9 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_squid_game/constants/style.dart';
+import 'package:flutter_squid_game/screens/CardScreen.dart';
+import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 
 class LoadingScreen extends StatelessWidget {
@@ -7,6 +11,8 @@ class LoadingScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Timer(Duration(seconds: 12), () => Get.off(CardScreen()));
+
     return Scaffold(
       backgroundColor: kBackground,
       body: Container(
