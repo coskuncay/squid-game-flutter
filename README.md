@@ -2,7 +2,7 @@
 
 
 
-inspired by [Murat Çelik](https://www.linkedin.com/in/murat-%C3%A7elik-055/) 
+inspired by [Murat Çelik](https://www.linkedin.com/feed/update/urn:li:activity:6857971406924197888/) 
 
 loading Animations by [Drew Solorio](https://lottiefiles.com/mpjwui0ypi)
 
